@@ -1,2 +1,2 @@
 * [Home](/)
-* [Syllabus](/syllabus/)
+* [Syllabus](/syllabus/readme.md)
