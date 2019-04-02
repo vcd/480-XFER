@@ -14,5 +14,4 @@
 * [Disability Support](/syllabus/disability-support.md)
 * [Equal Opportunity](/syllabus/equal-opportunity.md)
 * [Student Accomedations](/syllabus/student-acommedations.md)
-* [Title IX](/syllabus/title-ix.md)  
- 
+* [Title IX](/syllabus/title-ix.md)
