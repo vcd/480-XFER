@@ -18,4 +18,12 @@
 * Why? Time & Attention.
 	* Cannot control time
 	* Can control attention
-* Calvin I’m bragging comic
+
+## Practice
+* Keep track of: [Done. ToDo. State.](/downloads/Done-To-Do-State.pdf)
+* Keep track of your time. 
+* Have awareness of your attention. 
+* Say Thank. Write a Thank You note.
+* Limit distractions.
+* What are other methods? 
+
