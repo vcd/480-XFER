@@ -2,8 +2,48 @@
 
 > [This is water.][1] - _David Foster Wallace_
 
+## Overview
+
+<!-- tabs:start -->
+
+#### **Project Life**
+
+* Clients
+* Getting Work
+* Presenting
+* Project Brief
+* Feedback
+* Copyrights
+
+#### **Business Life**
+
+* Pricing
+* Budgeting
+* Administration
+* Incorporation
+* Contracts
+* Taxes
+
+#### **Life-Life**
+
+* Panopticon
+* Goals
+* Benefits
+* Insurance
+* Career vs. Calling 
+
+
+<!-- tabs:end -->
+
+
+
+
+
 ## Canvas
-Canvas will strictly be for Assignment submissions and Grades. All remaining items will be on the course site at this URL,  
+Canvas will strictly be for Assignment submissions and Grades. All remaining items will be on the course site at this URL: [https://vcd.github.io/480](https://vcd.github.io/480)
+
+## Harvest App
+For time tracking, use free [Harvest](http://harvestapp.com/) plan. Do not upgrade to a paid plan. 
 
 ## Spectrum
 [Spectrum.Chat/480][2] is a chatroom for communication with your class and the Instructor. Sign up with your preferred login method.
