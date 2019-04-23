@@ -4,4 +4,4 @@
 * `Archive` untracked and git-ignored
 * `Assignments` are Assignments & Readings
 * `Modules` are course concepts
-* `Proejcts` are course concepts - applied
+* `Projects` are course concepts - applied
