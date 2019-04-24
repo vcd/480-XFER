@@ -1,16 +1,16 @@
 **DESN 480**
 * [Home](/)
-* [Syllabus](/syllabus/readme.md)
+* [Syllabus](/syllabus/README.md)
 
 **Your Work.**
-* [Rates & Salary (..soon)](#)
-* [Contracts](/contracts/readme.md)
-* [Creative Briefs (..soon)](#)
+* [Rates & Salary (/salary/README.md)]()
+* [Contracts](/contracts/README.md)
+* [Creative Briefs](/creative-briefs/README.md)
 
 **Your Business.**
-* [The Co.]()
-* [Incorporation]()
+* [The Co.](/business/README.md)
+* [Incorporation](/business/incorporation.md)
 
 **Your Life.**
-* [Mindfulness](/mindfulness/readme.md)
+* [Mindfulness](/mindfulness/README.md)
 * [Your Time](/mindfulness/time-management.md)
