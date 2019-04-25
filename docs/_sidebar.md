@@ -3,7 +3,7 @@
 * [Syllabus](/syllabus/README.md)
 
 **Your Work.**
-* [Rates & Salary (/salary/README.md)]()
+* [Rates & Salary](/salary/README.md)
 * [Contracts](/contracts/README.md)
 * [Creative Briefs](/creative-briefs/README.md)
 
@@ -14,3 +14,4 @@
 **Your Life.**
 * [Mindfulness](/mindfulness/README.md)
 * [Your Time](/mindfulness/time-management.md)
+* [Your Money](/mindfulness/personal-budgeting.md)
