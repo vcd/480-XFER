@@ -10,6 +10,7 @@
 **Your Business.**
 * [The Co.](/business/README.md)
 * [Incorporation](/business/incorporation.md)
+* [Co. Money](/business/co-money.md)
 
 **Your Life.**
 * [Mindfulness](/mindfulness/README.md)

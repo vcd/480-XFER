@@ -2,6 +2,9 @@
 
 ## Overview
 
+
+
+
 First, watch [Personal Finance Fundamentals][1]. Understand the concepts to debts, assets, and budgeting. The same process you apply to personal finances, can then be used in your incorporated business. 
 
 Two, download [Expenses spreadsheet][2] and enter in your existing information and future projections. If your Adjust the _Desired Salary (before TAX)_, adjust the 
@@ -18,5 +21,5 @@ It is never too soon to think about Personal Finance. Do your research and answe
 
 
 [1]:	http://www.lynda.com/Business-Accounting-tutorials/Personal-Finance-Fundamentals/363223-2.html
-[2]:	https://db.tt/H026rhrL
+[2]:	https://github.com/vcd/480/blob/master/downloads/budgeting/Budgeting-Personal.numbers?raw=true
 [4]:	https://www.irs.gov/Retirement-Plans/Individual-Retirement-Arrangements-(IRAs)-1
