@@ -8,7 +8,7 @@
 * [Creative Briefs](your-project/creative-briefs/README.md)
 
 **Your Business.**
-* [The Co.](/business/README.md)
+* [The Co.](/your-business/one-sheets/README.md)
 * [Incorporation](/business/incorporation.md)
 * [Co. Money](/business/co-money.md)
 
