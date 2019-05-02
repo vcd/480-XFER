@@ -6,6 +6,11 @@ Create a one sheet to showcase your freelance company. Present yourself, your se
 * Reinforce your branding and identity
 * Establish rates, methods of payments, & terms
 
+## Examples
+* [Example A](/your-business/one-sheets/one-sheet-a.jpg)
+* [Example B](/your-business/one-sheets/one-sheet-b.jpg)
+* [Example C](/your-business/one-sheets/one-sheet-c.jpg)
+
 ## Requirements
 * 11x17 paper portrait or landscape
 * Designers choice of:
