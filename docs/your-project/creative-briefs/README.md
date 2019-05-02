@@ -12,12 +12,12 @@ Understand briefs can be used to _do work_, and _also get work_. Both are vital 
 Why put the time into making a _Creative Brief_? 
 
 ## Examples
-* From [BHW1 - a local award winning ad agency -](https://bhw1.com) [Sample 1](/downloads/sample-bhw1-1.pdf) | [Sample 2](/downloads/sample-bhw1-2.pdf) 
+* From [BHW1 - a local award winning ad agency -](https://bhw1.com)[Sample 1](/docs/your-project/creative-briefs/downloads/sample-bhw1-1.pdf) | [Sample 2](/docs/your-project/creative-briefs/downloads/sample-bhw1-2.pdf) 
 
 ## Resources
-* [Creative Brief template](/downloads/Creative-Brief.pages)
-* [10 Most Important Things](/downloads/10_most_important_things.pdf)
-* [Creative Brief Questionnaire](/downloads/Creative_Briefing_Questionnaire.pdf)
+* [Creative Brief template](/docs/your-project/creative-briefs/downloads/Creative-Brief.pages)
+* [10 Most Important Things](/docs/your-project/creative-briefs/downloads/10_most_important_things.pdf)
+* [Creative Brief Questionnaire](/docs/your-project/creative-briefs/downloads/Creative_Briefing_Questionnaire.pdf)
 
 ## References
 * [What is a Creative Brief?](http://www.lynda.com/Design-Business-tutorials/What-creative-brief/114320/148433-4.html)
