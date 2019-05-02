@@ -2,10 +2,10 @@
 * [Home](/)
 * [Syllabus](/syllabus/README.md)
 
-**Your Work.**
+**Your Projects.**
 * [Rates & Salary](/salary/README.md)
 * [Contracts](/contracts/README.md)
-* [Creative Briefs](/creative-briefs/README.md)
+* [Creative Briefs](your-project/creative-briefs/README.md)
 
 **Your Business.**
 * [The Co.](/business/README.md)
