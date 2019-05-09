@@ -15,10 +15,10 @@ The only control you truly have is of yourself. Clients and Projects will do (an
 * What are key components of a contract? 
 
 ## Downloads
-* [Contract Components (MS Word)](docs/your-project/contracts/downloads/480-Contract.docx)
-* [Contract Components (Pages)](docs/your-project/contracts/downloads/480-Contract.pages)
+* [Contract Components (MS Word)](https://github.com/vcd/480/raw/master/docs/your-project/contracts/downloads/480-Contract.docx)
+* [Contract Components (Pages)](https://github.com/vcd/480/raw/master/docs/your-project/contracts/downloads/480-Contract.pages)
 * Examples: [Sample A](docs/your-project/contracts/downloads/sample-1.pdf) | [Sample B](docs/your-project/contracts/downloads/sample-2.pdf) | [Sample C](docs/your-project/contracts/downloads/sample-3.pdf)
 
 ## References
-* [Fuck You Pay Me by Mike Monteiro](https://vimeo.com/22053820)
+* [Fuck You Pay Me by Mike Monteiro](https://vimeo.com/22053820) | Notes from [Fuck You Pay Me](contracts/notes-fuckyou-payme.md)
 * [Contracts for Creatives](https://www.lynda.com/Business-Skills-tutorials/Contracting-Creatives/508540-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3acontracts%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
