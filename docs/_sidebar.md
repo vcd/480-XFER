@@ -4,7 +4,7 @@
 
 **Your Projects.**
 * [Rates & Salary](/salary/README.md)
-* [Contracts](/contracts/README.md)
+* [Contracts](/your-project/contracts/README.md)
 * [Creative Briefs](your-project/creative-briefs/README.md)
 
 **Your Business.**
