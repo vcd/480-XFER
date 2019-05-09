@@ -15,7 +15,9 @@ The only control you truly have is of yourself. Clients and Projects will do (an
 * What are key components of a contract? 
 
 ## Downloads
-
+* [Contract Components (MS Word)](docs/your-project/contracts/downloads/480-Contract.docx)
+* [Contract Components (Pages)](docs/your-project/contracts/downloads/480-Contract.pages)
+* Examples: [Sample A](docs/your-project/contracts/downloads/sample-1.pdf) | [Sample B](docs/your-project/contracts/downloads/sample-2.pdf) | [Sample C](docs/your-project/contracts/downloads/sample-3.pdf)
 
 ## References
 * [Fuck You Pay Me by Mike Monteiro](https://vimeo.com/22053820)
