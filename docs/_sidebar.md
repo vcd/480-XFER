@@ -11,6 +11,7 @@
 * [The Co.](/your-business/one-sheets/README.md)
 * [Incorporation](/business/incorporation.md)
 * [Co. Money](/business/co-money.md)
+* [Taxes](/taxes/README.md)
 
 **Your Life.**
 * [Mindfulness](/mindfulness/README.md)
