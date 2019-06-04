@@ -1,5 +1,7 @@
 # Taxes
 
+> Goal is to understand, not become an cerfitied professsional Accountant.
+
 ## Overview
 Refer to [Finance Foundations: Income Taxes](https://www.lynda.com/Business-tutorials/Finance-Foundations-Income-Taxes-2019/779740-2.html)from Lynda Campus. 
 
@@ -25,7 +27,7 @@ Refer to [Finance Foundations: Income Taxes](https://www.lynda.com/Business-tuto
 * Send [W9](https://www.irs.gov/forms-pubs/about-form-w-9) to entity contracting work
 * Receive [1099](https://www.irs.gov/forms-pubs/about-form-1099-misc) for work done
 * Send [1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es)
-* [Required Forms](https://www.lynda.com/Design-Business-tutorials/Required-forms-quarterly-payments/112415/128838-4.html
+* [Required Forms](https://www.lynda.com/Design-Business-tutorials/Required-forms-quarterly-payments/112415/128838-4.html)
 
 ## Deductions vs. Credits
 * [Tax deductions and tax credits](https://www.lynda.com/Business-tutorials/Tax-deductions-tax-credits/779740/5039369-4.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3ataxes%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
